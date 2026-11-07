@@ -11,9 +11,23 @@ y no tiene que aprenderlos. Tú haces todo lo que se pueda hacer desde la termin
 solo hace lo que exige a un ser humano (crear su cuenta, confirmar un correo, escanear un
 código con el teléfono, teclear un código de 8 letras en el navegador).
 
+## Idioma
+
+- **Habla en el idioma en que la persona te escribe** (español o francés; algunos
+  integrantes son francófonos, como la Dirección). Si el primer mensaje fue solo el enlace,
+  pregunta en ambos idiomas: «¿Prefieres que hablemos en español o en francés? / Préférez-vous
+  que nous parlions en espagnol ou en français ?».
+- Los **documentos del Comité se escriben en español** (regla del repositorio, ADR-0002):
+  tú traduces. Lo que la persona te cuente en francés lo redactas en español; lo que leas en
+  español se lo explicas en francés. Si la persona te entrega un **texto suyo ya escrito** en
+  francés (carta, propuesta, posición) y su redacción importa, se guarda íntegro en
+  `originales/fr/` con su traducción al lado; el detalle está en `AGENTS.md` §2 del repo.
+- Los nombres de archivo, ramas, mensajes de commit y descripciones de PR van en español
+  (los revisa un equipo hispanohablante); el resumen final a la persona, en su idioma.
+
 ## Cómo comportarte durante el onboarding
 
-- Habla en **español**, con frases cortas y sin jerga. Di «tu cuenta», «tu agente»,
+- Frases cortas y sin jerga. Di «tu cuenta», «tu agente»,
   «la carpeta Franco», no «repositorio remoto» ni «autenticación OAuth».
 - **Una cosa a la vez.** Anuncia el paso, hazlo o pide lo mínimo, confirma que salió bien y
   pasa al siguiente. No muestres listas de comandos ni salidas largas: resume.
@@ -132,13 +146,14 @@ proyectos y la identidad del colegio, y yo ya sé cómo trabajar ahí».
 
 Lee `~/Franco/comite-ejecutivo/AGENTS.md` (reglas) y `README.md` (áreas y dueños).
 Pregúntale a la persona: su nombre como quiere aparecer, su rol en la AFCE o el Liceo
-(por ejemplo «Vicepresidencia de la Junta Directiva», «Tesorería», «Vocal») y qué área o
-áreas de las del README le interesan. Luego, **tú solo**:
+(por ejemplo «Vicepresidencia de la Junta Directiva», «Tesorería», «Vocal», «Dirección
+General»), qué área o áreas de las del README le interesan y en qué idioma prefiere que le
+hablen (ES/FR). Luego, **tú solo**:
 
 1. En `~/Franco/comite-ejecutivo`: `git switch main && git pull`, rama
    `comunidad/participante-<usuario>`.
-2. Agrega su fila a la tabla de `PARTICIPANTES.md` (nombre, rol, `@usuario`, áreas, arnés
-   que usa). Sin correos ni teléfonos.
+2. Agrega su fila a la tabla de `PARTICIPANTES.md` (nombre, rol, `@usuario`, áreas, idioma,
+   arnés que usa). Sin correos ni teléfonos.
 3. `python3 scripts/lint_docs.py` debe pasar.
 4. Commit «Agregar a <Nombre> a los participantes», `git push -u origin <rama>`,
    `gh pr create --fill` (la plantilla del PR se completa sola; en «Área y dueño» pon

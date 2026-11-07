@@ -20,12 +20,16 @@ Cualquiera de estos tres sirve; la Presidencia te dirá cuál conviene en tu cas
 
 ## 2. Pega este mensaje en tu asistente
 
-> Lee https://raw.githubusercontent.com/LiceoFrancoCostarricense/.github/main/comite-ejecutivo/INICIO.md
-> y guíame paso a paso siguiendo exactamente esas instrucciones. Soy miembro del Comité
-> Ejecutivo del Liceo Franco-Costarricense y no soy técnico: hazlo tú y pídeme solo lo que
-> yo tenga que hacer personalmente.
+> Lee y sigue paso a paso https://raw.githubusercontent.com/LiceoFrancoCostarricense/.github/main/comite-ejecutivo/INICIO.md
+
+En francés funciona igual (el asistente te guiará en tu idioma):
+
+> Lis et suis pas à pas https://raw.githubusercontent.com/LiceoFrancoCostarricense/.github/main/comite-ejecutivo/INICIO.md
 
 ## 3. Sigue lo que te vaya pidiendo
+
+El asistente te hablará en el idioma en que le escribas (español o francés). Los documentos
+del Comité se guardan en español; si tú trabajas en francés, él traduce en ambos sentidos.
 
 Tomará unos 20 minutos. Te pedirá, en este orden:
 
