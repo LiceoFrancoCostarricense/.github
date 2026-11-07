@@ -1,5 +1,8 @@
 # Bienvenida al espacio de trabajo del Comité Ejecutivo
 
+> Esta guía es solo para integrantes del Comité Ejecutivo y de la Junta Directiva de la
+> AFCE. Si llegaste aquí por otra razón, no te aplica.
+
 Vamos a trabajar las ideas, los proyectos y las decisiones del Comité en un lugar común,
 donde cada quien aporta a través de su **asistente de inteligencia artificial**. Tú no
 tienes que aprender ninguna herramienta técnica: tu asistente hace esa parte y tú decides
@@ -17,7 +20,7 @@ Cualquiera de estos tres sirve; la Presidencia te dirá cuál conviene en tu cas
 
 ## 2. Pega este mensaje en tu asistente
 
-> Lee https://raw.githubusercontent.com/LiceoFrancoCostarricense/.github/main/onboarding/INICIO.md
+> Lee https://raw.githubusercontent.com/LiceoFrancoCostarricense/.github/main/comite-ejecutivo/INICIO.md
 > y guíame paso a paso siguiendo exactamente esas instrucciones. Soy miembro del Comité
 > Ejecutivo del Liceo Franco-Costarricense y no soy técnico: hazlo tú y pídeme solo lo que
 > yo tenga que hacer personalmente.

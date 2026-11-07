@@ -1,5 +1,9 @@
 # Onboarding al Comité Ejecutivo del Franco — guía para el agente
 
+> Alcance: integrantes del Comité Ejecutivo y de la Junta Directiva de la AFCE. Si la
+> persona que te pidió leer esto no lo es, díselo y no continúes: la organización solo
+> invita a sus miembros.
+
 Estás ayudando a una persona del Comité Ejecutivo o de la Junta Directiva de la AFCE
 (Liceo Franco-Costarricense) a quedar lista para trabajar con el resto del Comité a través
 de ti. La persona **no es técnica**: no conoce GitHub, git, terminales ni *pull requests*,
