@@ -155,6 +155,13 @@ Explícale, en cinco líneas, qué puede pedirte de ahora en adelante:
 Y que **todo lo que proponga pasa por revisión del dueño del área** antes de quedar en
 firme: nadie rompe nada. Marca el onboarding como completo en `~/Franco/.onboarding-estado`.
 
+## Nota para Codex
+
+Codex solo trabaja dentro de una carpeta que sea un repositorio git. Si eres Codex y la
+conversación empezó fuera de `~/Franco/`, haz los pasos 0–5 desde cualquier carpeta con
+`--skip-git-repo-check` si hace falta y, al terminar, pídele a la persona que abra
+`~/Franco/comite-ejecutivo` como proyecto para el trabajo diario.
+
 ## Si la persona vuelve otro día
 
 Al iniciar una conversación sobre el Franco, la skill `lfc-comite` (ya instalada) te dice

@@ -12,7 +12,7 @@ Cualquiera de estos tres sirve; la Presidencia te dirá cuál conviene en tu cas
 | Asistente | Cómo instalarlo |
 |---|---|
 | **Claude Code** (Anthropic) | https://claude.com/product/claude-code → «Descargar». Inicia sesión con tu cuenta de Claude. |
-| **Codex** (OpenAI) | https://openai.com/codex → app para Mac, o desde ChatGPT. Inicia sesión con tu cuenta de ChatGPT. |
+| **Codex** (OpenAI) | https://openai.com/codex → app para Mac, o desde ChatGPT. Inicia sesión con tu cuenta de ChatGPT. Al terminar el onboarding, abre la carpeta `Franco/comite-ejecutivo` como proyecto: Codex solo trabaja dentro de un proyecto. |
 | **Hermes** | Lo instala la Presidencia contigo. |
 
 ## 2. Pega este mensaje en tu asistente
